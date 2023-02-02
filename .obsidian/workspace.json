@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "9b8081906de75946",
+    "type": "split",
+    "children": [
+      {
+        "id": "d245fe40f81c49f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b024580ee058e73e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/브라우저 동작 원리와 <script> 태그의 위치.pdf"
+              }
+            }
+          },
+          {
+            "id": "511400793b36d072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS_Playground/Replay JS/무제 폴더/생성자 함수.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "be218e87e79e17f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS_Playground/Replay JS/무제 폴더/무제 파일.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f38cbfb489de44fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS_Playground/객체의 불변성.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0f14912ede92bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "133cf663b3a0f7e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0445c582ac96fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ca697d26afe32f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07d48f316e159522",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "117b547cd4527d5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14af81aea342829b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ef2ae4bbdc9006",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS_Playground/객체의 불변성.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1baced506132762b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JS_Playground/객체의 불변성.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3bb51646ffb2815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9686d6f963c3458d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JS_Playground/객체의 불변성.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "f38cbfb489de44fd",
+  "lastOpenFiles": [
+    "Browser_Deep_Dive/브라우저 동작 원리/Documents/브라우저 동작 원리.md",
+    "JS_Playground/객체의 불변성.md",
+    "JS_Playground/Replay JS/무제 폴더/무제 파일.md",
+    "JS_Playground/Replay JS/무제 폴더/생성자 함수.md",
+    "PDFs/브라우저 동작 원리와 <script> 태그의 위치.pdf",
+    "Browser_Deep_Dive/브라우저 동작 원리/Documents/After Log.md",
+    "Browser_Deep_Dive/브라우저 동작 원리/assets/Images/토큰화 알고리즘 도표.png",
+    "Browser_Deep_Dive/브라우저 동작 원리/assets/Images/HTML 트리 구축 단계.png",
+    "Browser_Deep_Dive/브라우저 동작 원리/assets/Images/Pasted image 20230202011247.png",
+    "202302020339.md"
+  ]
+}
