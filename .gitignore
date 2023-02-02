@@ -146,5 +146,10 @@ dist
 .obsidian/
 .obsidian
 
+.DS_Store
+.ideas
+
+.gitignore
+
 
 # End of https://www.toptal.com/developers/gitignore/api/node

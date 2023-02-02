@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS_Playground/Replay JS/무제 폴더/생성자 함수.md",
+                "file": "JS_Playground/Prototype과 JS/Documents/3_함수의 prototype과 생성자 함수.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,16 +33,48 @@
             "id": "be218e87e79e17f8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f38cbfb489de44fd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "JS_Playground/Replay JS/무제 폴더/무제 파일.md",
+                "file": "JS_Playground/Prototype과 JS/Documents/3_함수의 prototype과 생성자 함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9fe1b41230a253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS_Playground/Prototype과 JS/Documents/3_함수의 prototype과 생성자 함수.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f38cbfb489de44fd",
+            "id": "2877e9f8d9f0e51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS_Playground/Prototype과 JS/Documents/3_함수의 prototype과 생성자 함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4be85cb9c8fd4963",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +117,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -169,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,17 +214,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f38cbfb489de44fd",
+  "active": "4be85cb9c8fd4963",
   "lastOpenFiles": [
-    "Browser_Deep_Dive/브라우저 동작 원리/Documents/브라우저 동작 원리.md",
-    "JS_Playground/객체의 불변성.md",
-    "JS_Playground/Replay JS/무제 폴더/무제 파일.md",
-    "JS_Playground/Replay JS/무제 폴더/생성자 함수.md",
-    "PDFs/브라우저 동작 원리와 <script> 태그의 위치.pdf",
+    "JS_Playground/Prototype과 JS/assets/스크린샷 2023-02-02 오후 11.39.10.png",
+    "2023-02-02.md",
+    "JS_Playground/Prototype과 JS/assets/스크린샷 2023-02-02 오후 11.48.01.png",
+    "JS_Playground/Prototype과 JS/assets/스크린샷 2023-02-02 오후 11.44.51.png",
+    "JS_Playground/Prototype과 JS/Documents/3_함수의 prototype과 생성자 함수.md",
+    "JS_Playground/Prototype과 JS/Documents/2_Prototype의 문법적 특징들.md",
+    "JS_Playground/Prototype과 JS/Documents/1_Prototype 과 JS통찰하기.md",
+    "JS_Playground/Prototype과 JS/Documents/4_ 내장 객체의 Prototype.md",
     "Browser_Deep_Dive/브라우저 동작 원리/Documents/After Log.md",
-    "Browser_Deep_Dive/브라우저 동작 원리/assets/Images/토큰화 알고리즘 도표.png",
-    "Browser_Deep_Dive/브라우저 동작 원리/assets/Images/HTML 트리 구축 단계.png",
-    "Browser_Deep_Dive/브라우저 동작 원리/assets/Images/Pasted image 20230202011247.png",
-    "202302020339.md"
+    "Browser_Deep_Dive/브라우저 동작 원리/Documents/브라우저 동작 원리.md"
   ]
 }
